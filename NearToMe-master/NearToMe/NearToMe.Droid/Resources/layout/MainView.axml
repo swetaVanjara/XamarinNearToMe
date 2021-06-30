@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/toolbar"
+        android:background="#78cac5">
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/lblTitle"
+            android:text="NEAR TO ME"
+            android:textColor="@color/color_white"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="16dp"
+            android:layout_marginLeft="90dp" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="30sp"
+            android:src="@drawable/logo"
+            android:layout_gravity="center"
+            android:id="@+id/Logout"
+            android:background="@null"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/contentFrameRootLayout"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/toolbar">
+        <fragment
+            android:id="@+id/googlemap"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="com.google.android.gms.maps.MapFragment" />
+    </RelativeLayout>
+</RelativeLayout>

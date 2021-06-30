@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">NearToMe.Droid</string>
+  <string name="GoogleKey">AIzaSyBMbkSmjAMb1IClslb-qDl6i-5W6-AIdJ0</string> 
+  <string name="facebook_app_id">376815716145257</string>
+<string name="fb_login_protocol_scheme">fb376815716145257</string>
+</resources>

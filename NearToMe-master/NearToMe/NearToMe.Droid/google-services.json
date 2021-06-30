@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "99991185696",
+    "firebase_url": "https://neartome-203809.firebaseio.com",
+    "project_id": "neartome-203809",
+    "storage_bucket": "neartome-203809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99991185696:android:eb6fd6d8c07ee02c",
+        "android_client_info": {
+          "package_name": "natrix.NTM.droid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99991185696-hv5fn6qofdh3cggu8qa3bd7c7249eggu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "natrix.NTM.droid",
+            "certificate_hash": "6f12d85b818ad563cc4db5ce346f75dd4e2f9b5e"
+          }
+        },
+        {
+          "client_id": "99991185696-tl0k3jrdv7dk7sr74dkkrm074cfg6h3a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "99991185696-93np8fcpbflbt65idm93jb666eidojtr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "99991185696-7g35vd6n1edl115i8t9r9v6dmb7s2qp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "natrix.NTM.droid",
+            "certificate_hash": "601b55914c55ccea913e278a8e5b50ffbe3f7653"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMbkSmjAMb1IClslb-qDl6i-5W6-AIdJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99991185696-tl0k3jrdv7dk7sr74dkkrm074cfg6h3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

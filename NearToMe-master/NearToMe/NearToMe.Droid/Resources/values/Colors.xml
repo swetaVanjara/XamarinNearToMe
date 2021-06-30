@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="color_blue">#2c3e80</color>
+  <color name="color_blue_dark">#2C4084</color>
+  <color name="color_white">#FFFFFF</color>
+  <color name="color_orange">#f49527</color>
+  <color name="color_dark_gray">#4c4c4c</color>
+  <color name="color_dark_light_gray">#4a4a4a</color>
+  <color name="color_gray">#999999</color>
+  <color name="color_mid_gray">#828282</color>
+  <color name="color_light_gray">#b5b5b5</color>
+  <color name="color_ext_light_gray">#ebebeb</color>
+  <color name="color_ext_thin_light_gray">#dbdbdb</color>
+
+  <color name="MajorColor">#2c3e80</color>
+  <color name="SubColor">#f49527</color>
+  <color name="ColorDarkGrey">#4c4c4c</color>
+  <color name="ColorMediumGrey">#828282</color>
+  <color name="ColorLightGrey">#b5b5b5</color>
+  <color name="ColorExtraLightGrey">#ebebeb</color>
+  <color name="ColorWhiteSmoke">#f7f7f7</color>
+  <color name="ColorWhite">#ffffff</color>
+</resources>

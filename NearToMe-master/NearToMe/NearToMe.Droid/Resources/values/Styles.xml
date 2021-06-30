@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+   <style name="Theme.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowBackground">@drawable/background</item>
+    <item name="android:windowNoTitle">true</item>
+     <item name="android:windowFullscreen">true</item>
+  </style>
+
+  <style name="NTMTheme" parent="NTMTheme.Base">
+    <item name="android:windowEnableSplitTouch">false</item>
+    <item name="android:splitMotionEvents">false</item>
+  </style>
+  
+  <style name="NTMTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+  </style>
+</resources>
